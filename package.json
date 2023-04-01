@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/malachigamblin/SVG-Logo-Maker/issues"
   },
-  "homepage": "https://github.com/malachigamblin/SVG-Logo-Maker#readme"
+  "homepage": "https://github.com/malachigamblin/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
