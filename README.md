@@ -6,7 +6,7 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribute](#contributing)
+- [Contribute](#contribute)
 - [Tests](#tests)
 - [Walkthrough-Video](#walkthrough-video)
 - [Screenshots](#screenshots)
