@@ -19,11 +19,11 @@ This project allows the user to easily generate a simple logo for projects so th
 
 ## Installation
 
-Install node.js onto your computer in the terminal: https://nodejs.org/en/download
-Clone this repository
-Run "npm init" in the folder of your repo and type "jest" for the "test" prompt.
-Install inquirer in your code editor using "npm i inquirer @8.2.4".
-Install jest into your code editor using "npm i jest".
+- Install node.js onto your computer in the terminal: https://nodejs.org/en/download
+- Clone this repository
+- Run "npm init" in the folder of your repo and type "jest" for the "test" prompt.
+- Install inquirer in your code editor using "npm i inquirer @8.2.4".
+- Install jest into your code editor using "npm i jest".
 
 ## Usage
 
